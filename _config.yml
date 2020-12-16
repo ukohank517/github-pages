@@ -39,7 +39,7 @@ round-avatar: false
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "ukohank517@gmail.com"
-  facebook: 
+  facebook:
   github: ukohank517
   twitter: ukohank517
   rss: true
@@ -216,6 +216,7 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
+  - vendor
 
 plugins:
   - jekyll-paginate

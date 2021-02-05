@@ -69,6 +69,7 @@ Here shows the way you can run this application in local environment.
 
     ```bash
     $ bundle install # init dependency package
+    $ bundle add webrick #
     $ bundle exec jekyll serve # start server
     ```
 3. see the local page
